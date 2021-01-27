@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.jumbotron {
+    background-image: url('kepek/header.jpg');
+    width: 100%;
+    height: 100%;
+}
+h1,p,h3{
+    color: bisque;
+}
+h6{
+    color: bisque;
+    text-align: left;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  h4{
+      color: black;
+  }
